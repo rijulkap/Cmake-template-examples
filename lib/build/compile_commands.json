@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/rijul/Workspace/cpp/cmake_templates_example/lib/build",
+  "command": "/usr/bin/c++  -I/home/rijul/Workspace/cpp/cmake_templates_example/lib/src -I/home/rijul/Workspace/cpp/cmake_templates_example/lib/include -isystem /home/rijul/Workspace/cpp/cmake_templates_example/lib/build/vcpkg_installed/x64-linux/include -g -Werror -std=gnu++20 -o CMakeFiles/test_lib.dir/src/do_something.cpp.o -c /home/rijul/Workspace/cpp/cmake_templates_example/lib/src/do_something.cpp",
+  "file": "/home/rijul/Workspace/cpp/cmake_templates_example/lib/src/do_something.cpp"
+}
+]

@@ -1,0 +1,3 @@
+/home/rijul/Workspace/cpp/cmake_templates_example/exe/build/CMakeFiles/testy.dir
+/home/rijul/Workspace/cpp/cmake_templates_example/exe/build/CMakeFiles/edit_cache.dir
+/home/rijul/Workspace/cpp/cmake_templates_example/exe/build/CMakeFiles/rebuild_cache.dir

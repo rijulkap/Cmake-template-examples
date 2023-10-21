@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/rijul/Workspace/cpp/cmake_templates_example/exe/build",
+  "command": "/usr/bin/c++  -isystem /home/rijul/Workspace/cpp/cmake_templates_example/lib/install/include -g -o CMakeFiles/testy.dir/main.cpp.o -c /home/rijul/Workspace/cpp/cmake_templates_example/exe/main.cpp",
+  "file": "/home/rijul/Workspace/cpp/cmake_templates_example/exe/main.cpp"
+}
+]

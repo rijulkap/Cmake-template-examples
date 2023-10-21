@@ -1,0 +1,104 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.2.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "libs/libA",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-libs.libA-Debug-3f53526fab1b38f6d32e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.2.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "/home/rijul/Workspace/cpp/test_struct/libA",
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "execA",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "libA",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "execA::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-execA-Debug-edef419d1820cdc189f2.json",
+					"name" : "execA",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "libA::@bc0e1ed4a3d44f40a2f9",
+					"jsonFile" : "target-libA-Debug-2e4e621490b44a93026a.json",
+					"name" : "libA",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/rijul/Workspace/cpp/test_struct/execA/build",
+		"source" : "/home/rijul/Workspace/cpp/test_struct/execA"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

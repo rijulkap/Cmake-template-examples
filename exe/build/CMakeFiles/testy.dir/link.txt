@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/testy.dir/main.cpp.o -o testy  /home/rijul/Workspace/cpp/cmake_templates_example/lib/install/lib/libtest_lib.a -lfmt::fmt -lrange-v3::range-v3 -lcxxopts::cxxopts 

@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/rijul/Workspace/cpp/test_struct/execA/build",
+  "command": "/usr/bin/c++  -I/home/rijul/Workspace/cpp/test_struct/libA/include -g -Werror -std=gnu++20 -o CMakeFiles/execA.dir/src/main.cpp.o -c /home/rijul/Workspace/cpp/test_struct/execA/src/main.cpp",
+  "file": "/home/rijul/Workspace/cpp/test_struct/execA/src/main.cpp"
+},
+{
+  "directory": "/home/rijul/Workspace/cpp/test_struct/execA/build/libs/libA",
+  "command": "/usr/bin/c++  -I/home/rijul/Workspace/cpp/test_struct/libA/src -I/home/rijul/Workspace/cpp/test_struct/libA/include -isystem /home/rijul/Workspace/cpp/test_struct/execA/build/vcpkg_installed/x64-linux/include -g -Werror -std=gnu++20 -o CMakeFiles/libA.dir/src/do_something.cpp.o -c /home/rijul/Workspace/cpp/test_struct/libA/src/do_something.cpp",
+  "file": "/home/rijul/Workspace/cpp/test_struct/libA/src/do_something.cpp"
+}
+]

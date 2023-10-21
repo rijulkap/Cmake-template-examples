@@ -1,0 +1,6 @@
+/home/rijul/Workspace/cpp/cmake_templates_example/lib/install/lib/libtest_lib.a
+/home/rijul/Workspace/cpp/cmake_templates_example/lib/install/include/test_lib/do_something.h
+/home/rijul/Workspace/cpp/cmake_templates_example/lib/install/cmake/test_libTargets.cmake
+/home/rijul/Workspace/cpp/cmake_templates_example/lib/install/cmake/test_libTargets-debug.cmake
+/home/rijul/Workspace/cpp/cmake_templates_example/lib/install/cmake/test_libConfig.cmake
+/home/rijul/Workspace/cpp/cmake_templates_example/lib/install/cmake/test_libConfigVersion.cmake

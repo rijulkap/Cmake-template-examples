@@ -1,0 +1,2 @@
+/home/rijul/Workspace/cpp/test_struct/libA/src
+/home/rijul/Workspace/cpp/test_struct/libA/include

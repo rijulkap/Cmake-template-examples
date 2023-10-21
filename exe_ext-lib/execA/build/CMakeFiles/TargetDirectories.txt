@@ -1,0 +1,14 @@
+/home/rijul/Workspace/cpp/test_struct/execA/build/CMakeFiles/execA.dir
+/home/rijul/Workspace/cpp/test_struct/execA/build/CMakeFiles/edit_cache.dir
+/home/rijul/Workspace/cpp/test_struct/execA/build/CMakeFiles/rebuild_cache.dir
+/home/rijul/Workspace/cpp/test_struct/execA/build/CMakeFiles/list_install_components.dir
+/home/rijul/Workspace/cpp/test_struct/execA/build/CMakeFiles/install.dir
+/home/rijul/Workspace/cpp/test_struct/execA/build/CMakeFiles/install/local.dir
+/home/rijul/Workspace/cpp/test_struct/execA/build/CMakeFiles/install/strip.dir
+/home/rijul/Workspace/cpp/test_struct/execA/build/libs/libA/CMakeFiles/libA.dir
+/home/rijul/Workspace/cpp/test_struct/execA/build/libs/libA/CMakeFiles/edit_cache.dir
+/home/rijul/Workspace/cpp/test_struct/execA/build/libs/libA/CMakeFiles/rebuild_cache.dir
+/home/rijul/Workspace/cpp/test_struct/execA/build/libs/libA/CMakeFiles/list_install_components.dir
+/home/rijul/Workspace/cpp/test_struct/execA/build/libs/libA/CMakeFiles/install.dir
+/home/rijul/Workspace/cpp/test_struct/execA/build/libs/libA/CMakeFiles/install/local.dir
+/home/rijul/Workspace/cpp/test_struct/execA/build/libs/libA/CMakeFiles/install/strip.dir

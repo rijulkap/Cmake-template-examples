@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/execA.dir/src/main.cpp.o -o execA  libs/libA/liblibA.a 

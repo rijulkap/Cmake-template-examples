@@ -1,0 +1,2 @@
+/home/rijul/Workspace/cpp/cmake_templates_example/lib/src
+/home/rijul/Workspace/cpp/cmake_templates_example/lib/include

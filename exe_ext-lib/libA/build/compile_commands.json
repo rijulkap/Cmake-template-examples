@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/rijul/Workspace/cpp/test_struct/libA/build",
+  "command": "/usr/bin/c++  -I/home/rijul/Workspace/cpp/test_struct/libA/src -I/home/rijul/Workspace/cpp/test_struct/libA/include -isystem /home/rijul/Workspace/cpp/test_struct/libA/build/vcpkg_installed/x64-linux/include -g -Werror -o CMakeFiles/libA.dir/src/do_something.cpp.o -c /home/rijul/Workspace/cpp/test_struct/libA/src/do_something.cpp",
+  "file": "/home/rijul/Workspace/cpp/test_struct/libA/src/do_something.cpp"
+}
+]
